@@ -1,0 +1,40 @@
+/* General website styling */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+
+body {
+    background-color: #0f172a;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+/* Main heading */
+
+h1 {
+    color: #38bdf8;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+/* Paragraph */
+
+p {
+    color: #cbd5e1;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+/* Subheading */
+
+h2 {
+    color: #38bdf8;
+    margin-bottom: 15px;
+}
